@@ -1,4 +1,5 @@
 # design-patterns
 Modern view on classic design patterns implementation in Java
 
-[blog article](http://javaday.org.ua/modern-view-of-design-patterns-in-java/)
+Presentation:
+http://www.slideshare.net/alimenkou/the-modern-view-on-implementation-of-classic-design-patterns-in-java
